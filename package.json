@@ -1,0 +1,23 @@
+{
+  "name": "nodescrape",
+  "version": "1.0.0",
+  "description": "URL Scraper made in Nodejs with Axios and Cheerio.",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Curt-Lucas/nodeScrape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Curt-Lucas/nodeScrape/issues"
+  },
+  "homepage": "https://github.com/Curt-Lucas/nodeScrape#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
