@@ -1,4 +1,4 @@
-# nodeScrape
+# nodeScrape, not working
 Scrapes TikTok accounts that are currently live streaming.
 
 ## Requirements
